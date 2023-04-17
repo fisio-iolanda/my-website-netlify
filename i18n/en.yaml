@@ -13,10 +13,10 @@
   translation: Back to top
 
 - id: home
-  translation: Home
+  translation: Main
 
 - id: close
-  translation: Quit
+  translation: Close
 
 - id: languages
   translation: Languages
