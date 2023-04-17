@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/fisio-iolanda/my-website-netlify
 
 go 1.15
 

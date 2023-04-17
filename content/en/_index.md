@@ -190,8 +190,7 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      text: 
     design:
       columns: '1'
   - block: collection
