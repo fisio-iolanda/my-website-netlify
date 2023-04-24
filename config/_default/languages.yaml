@@ -3,6 +3,9 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+de:
+  languageCode: de
+  contentDir: content/de
 en:
   languageCode: en
   contentDir: content/en
