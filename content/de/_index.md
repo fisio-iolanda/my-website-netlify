@@ -9,7 +9,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: logo.big.png
+        filename: logo.big.svg
       cta:
         label:
         url: 
