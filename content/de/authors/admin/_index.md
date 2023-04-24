@@ -34,10 +34,10 @@ interests:
 # Education to show in About widget
 education:
   courses: 
-    - course: Ausbildung in Pilates (Theoretischer Unterricht:: 410 St. | Praktischer:: 300 St.)
+    - course: 'Ausbildung in Pilates (Theoretischer Unterricht: 410 St. | Praktischer: 300 St.)'
       institution: Along'vida Espaço Saúde Pilates Comércio Ltda
       year: 2016 - 2017
-    - course: Physiotherapie (Theoretischer Unterricht:: 4260 St. | Praktischer:: 1620 St.)
+    - course: 'Physiotherapie (Theoretischer Unterricht: 4260 St. | Praktischer: 1620 St.)'
       institution: Faculdade de Tecnologia e Ciências - FTC
       year: 2015 - 2021
 
