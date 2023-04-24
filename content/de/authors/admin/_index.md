@@ -1,47 +1,45 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Iolanda O. Santiago
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Iolanda
+last_name: Santiago
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇩🇪
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Physiotherapeutin | Pilates-Instruktorin
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Faculdade de Tecnologia e Ciências - FTC
+    url: https://www.uniftc.edu.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hallo, mein Name ist Iolanda Santiago und ich bin Physiotherapeutin von Beruf. 👋
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Pilates
+  - Manuelle Therapie
+  - Orthopädische Physiotherapie
+  - Post-COVID-19 Rehabilitation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ausbildung in Pilates (Theoretischer Unterricht:: 410 St. | Praktischer:: 300 St.)
+      institution: 
+      year: 2016 - 2017
+    - course: Physiotherapie (Theoretischer Unterricht:: 4260 St. | Praktischer:: 1620 St.)
+      institution: Faculdade de Tecnologia e Ciências - FTC
+      year: 2015 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,34 +49,29 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://www.linkedin.com/in/iolanda-santiago/
+    display:
+      header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/resume/ios.de.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'fisio.iolanda@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+❯ In 2021 habe ich meine letzten obligatorischen Praktika absolviert und mein Studium in Physiotherapie abgeschlossen. Seitdem habe ich mich dem "Projekt Deutschland" gewidmet. Ich habe einige Herausforderungen in diesem Projekt gemeistert und was mich glücklich macht, ist, dass ich die Sprache gelernt habe, um mich mit Einheimischen und deutschsprachigen Menschen zu verständigen. Aber ich weiß, dass ich noch viel zu lernen habe.
+
+❯ Im Moment widme ich mich dem nächsten Schritt: der offiziellen Zertifizierung auf dem B2-Niveau in Deutsch. 🚀
+
+❯ Vor meiner Tätigkeit als Physiotherapeutin habe ich in der Industrie als Fachkraft für Arbeitssicherheit gearbeitet, wo ich viel gelernt habe: meine Kommunikationsfähigkeiten verbessert, Führungsqualitäten erworben, Konfliktmanagement entwickelt, Präsentationen erstellt und großartige Freundschaften aufgebaut habe.
+
+❯ Im Moment ist meine berufliche Herausforderung, ein Unternehmen in Deutschland zu finden, in dem ich meine Fähigkeiten als Physiotherapeutin einbringen und dem Team einen Mehrwert bieten kann.
+
+Meine Email-Adresse: iolanda@ios-physiotherapie.de 
 {style="text-align: justify;"}
