@@ -7,9 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: 
-      subtitle: 
-      text: <div class="col-12 mx-auto"><img src="/media/logo.big.svg" alt=""></div>
+      text: '![Logo](/media/logo.big.svg)'
     design:
       columns: '1'
   
