@@ -6,8 +6,8 @@ type: landing
 
 sections:
   - block: markdown
-    content: |
-      ![Logo](/media/logo/logo.cinza.transp.svg#center)
+    content: 
+      text: '![Logo](/media/logo/logo.cinza.transp.svg#center)'
   
   - block: about.avatar
     id: about
