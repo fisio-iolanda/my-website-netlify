@@ -6,10 +6,8 @@ type: landing
 
 sections:
   - block: markdown
-    content:
-      text: '![Logo](/media/logo.big.svg)'
-    design:
-      columns: '1'
+    content: |
+      ![Logo](/media/logo/logo.cinza.transp.svg#center)
   
   - block: about.avatar
     id: about
@@ -217,9 +215,9 @@ sections:
       text: |-
         
       # Contact (add or remove contact options as necessary)
-      email: 'iolanda@ios-physiotherapie.de'
-      phone: '+55 71 994 045 183'
-      appointment_url: 'https://calendly.com'
+      # email: 'iolanda@ios-physiotherapie.de'
+      # phone: '+55 71 994 045 183'
+      # appointment_url: 'https://calendly.com'
       address:
         city: Salvador
         region: Bahia, Brasilien
@@ -229,10 +227,10 @@ sections:
         - 'Wochentage 08:00 to 16:00 (UTC/GMT -3)'
         - 'Samstags 08:00 to 12:00 (UTC/GMT -3)'
       contact_links:
-        - icon: linkedin
-          icon_pack: fab
-          name: iolanda-santiago
-          link: 'https://www.linkedin.com/in/iolanda-santiago/'
+        # - icon: linkedin
+        #   icon_pack: fab
+        #   name: iolanda-santiago
+        #   link: 'https://www.linkedin.com/in/iolanda-santiago/'
         - icon: skype
           icon_pack: fab
           name: Skype Me
@@ -252,5 +250,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
     design:
-      columns: '2'
+      columns: '1'
 ---
