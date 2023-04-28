@@ -231,6 +231,7 @@ sections:
       contact_links:
         - icon: linkedin
           icon_pack: fab
+          name: iolanda-santiago
           link: 'https://www.linkedin.com/in/iolanda-santiago/'
         - icon: skype
           icon_pack: fab
@@ -251,5 +252,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
     design:
-      columns: '2'
+      columns: '3'
 ---
