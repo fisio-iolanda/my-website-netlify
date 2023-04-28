@@ -6,9 +6,9 @@
 de:
   languageCode: de
   contentDir: content/de
-en:
-  languageCode: en
-  contentDir: content/en
+# en:
+#   languageCode: en
+#   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
