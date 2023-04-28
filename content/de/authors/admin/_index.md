@@ -54,6 +54,11 @@ social:
     link: https://www.linkedin.com/in/iolanda-santiago/
     display:
       header: true
+  - icon: skype
+    icon_pack: fab
+    link: 'skype:iolanda.oliveira?call'
+    display:
+      header: true
   - icon: cv
     icon_pack: ai
     link: uploads/resume/ios.de.pdf
@@ -73,5 +78,4 @@ highlight_name: true
 
 ❯ Im Moment ist meine berufliche Herausforderung, ein Unternehmen in Deutschland zu finden, in dem ich meine Fähigkeiten als Physiotherapeutin einbringen und dem Team einen Mehrwert bieten kann.
 
-Meine Email-Adresse: iolanda@ios-physiotherapie.de 
 {style="text-align: justify;"}

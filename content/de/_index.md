@@ -223,24 +223,24 @@ sections:
         region: Bahia, Brasilien
         country: Brasilien
         country_code: BR
-      office_hours:
-        - 'Wochentage 08:00 to 16:00 (UTC/GMT -3)'
-        - 'Samstags 08:00 to 12:00 (UTC/GMT -3)'
-      contact_links:
+      # office_hours:
+      #   - 'Wochentage 08:00 to 16:00 (UTC/GMT -3)'
+      #   - 'Samstags 08:00 to 12:00 (UTC/GMT -3)'
+      # contact_links:
         # - icon: linkedin
         #   icon_pack: fab
         #   name: iolanda-santiago
         #   link: 'https://www.linkedin.com/in/iolanda-santiago/'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:iolanda.oliveira?call'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:iolanda.oliveira?call'
         # - icon: video
         #   icon_pack: fas
         #   name: Zoom Me
         #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      # autolink: true
       # Email form provider
       form:
         provider: netlify
