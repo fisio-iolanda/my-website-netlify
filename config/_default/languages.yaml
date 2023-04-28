@@ -5,7 +5,7 @@
 # Default language
 de:
   languageCode: de
-  contentDir: content/de
+  contentDir: content
 # en:
 #   languageCode: en
 #   contentDir: content/en
