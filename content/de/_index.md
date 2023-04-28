@@ -222,7 +222,7 @@ sections:
       appointment_url: 'https://calendly.com'
       address:
         city: Salvador
-        region: Bahia
+        region: Bahia, Brasilien
         country: Brasilien
         country_code: BR
       office_hours:
@@ -252,5 +252,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
     design:
-      columns: '3'
+      columns: '2'
 ---
