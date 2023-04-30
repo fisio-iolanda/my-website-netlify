@@ -43,7 +43,7 @@ sections:
               * Individualisierte Untersuchungstermine und Patientenentwicklung (Kinesiotherapie, Manuelle Therapie, Mobilisierung der Gelenke)
               * Anwendung der Schröpftherapie zur Linderung von Muskelverspannungen und Schmerzen
     design:
-       columns: '2'
+       columns: '1'
 # ---------------------------------------------------------------------------------#
   - block: experience
     content:
@@ -65,7 +65,7 @@ sections:
               * Rehabilitation von älteren Patienten und Amputierten
               * Einsatz von Pilates-Techniken bei der verletzungsprävention
     design:
-       columns: '2'
+       columns: '1'
 # ---------------------------------------------------------------------------------#
   - block: features
     content:
