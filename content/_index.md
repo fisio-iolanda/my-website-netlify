@@ -16,34 +16,34 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-   - block: features
-     content:
-       title: Hobbys
-       items:
-         - name: Fahrradfahren
-           description: ''
-           icon: fa-biking
-           icon_pack: fas
-         - name: Schwimmen
-           description: ''
-           icon: fa-swimmer
-           icon_pack: fas
-         - name: Akademie
-           description: ''
-           icon: fa-dumbbell
-           icon_pack: fas
-         - name: Tanzen und Musik
-           description: ''
-           icon: fa-guitar
-           icon_pack: fas
-         - name: Reisen
-           description: ''
-           icon: fa-plane
-           icon_pack: fas
-         - name: Photography
-           description: ''
-           icon: camera-retro
-           icon_pack: fas
+  - block: features
+    content:
+      title: Hobbys
+      items:
+        - name: Fahrradfahren
+          description: ''
+          icon: fa-biking
+          icon_pack: fas
+        - name: Schwimmen
+          description: ''
+          icon: fa-swimmer
+          icon_pack: fas
+        - name: Akademie
+          description: ''
+          icon: fa-dumbbell
+          icon_pack: fas
+        - name: Tanzen und Musik
+          description: ''
+          icon: fa-guitar
+          icon_pack: fas
+        - name: Reisen
+          description: ''
+          icon: fa-plane
+          icon_pack: fas
+        - name: Photography
+          description: ''
+          icon: camera-retro
+          icon_pack: fas
   # - block: experience
   #   content:
   #     title: Experience
