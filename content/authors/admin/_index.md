@@ -61,7 +61,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/resume/ios.de.pdf
+    link: uploads/resume/Iolanda_Santiago_Lebenslauf.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'fisio.iolanda@gmail.com'
