@@ -217,7 +217,7 @@ sections:
     id: contact
     content:
       title: Kontakt
-      subtitle: Wie Sie mich erreichen können:
+      subtitle: 'Wie Sie mich erreichen können:'
       text: |-
         
       # Contact (add or remove contact options as necessary)
