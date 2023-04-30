@@ -230,11 +230,11 @@ sections:
       # email: 'iolanda@ios-physiotherapie.de'
       # phone: '+55 71 994 045 183'
       # appointment_url: 'https://calendly.com'
-      address:
-        city: Salvador
-        region: Bahia, Brasilien
-        country: Brasilien
-        country_code: BR
+      # address:
+      #  city: Salvador
+      #  region: Bahia, Brasilien
+      #  country: Brasilien
+      #  country_code: BR
       # office_hours:
       #   - 'Wochentage 08:00 to 16:00 (UTC/GMT -3)'
       #   - 'Samstags 08:00 to 12:00 (UTC/GMT -3)'
