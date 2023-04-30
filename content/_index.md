@@ -37,11 +37,33 @@ sections:
           date_start: '2018-02-01'
           date_end: '2018-06-01'
           description: |2-
-              Praktischer 70 St:
+              Praktischer 70 St.:
 
               * Anwendung spezifischer Behandlungen bei Patienten mit neurologischen Störungenoder deren Folgeerscheinungen. (Schädel-Hirn-Trauma - SHT und Schlaganfall)
               * Individualisierte Untersuchungstermine und Patientenentwicklung (Kinesiotherapie, Manuelle Therapie, Mobilisierung der Gelenke)
               * Anwendung der Schröpftherapie zur Linderung von Muskelverspannungen und Schmerzen
+    design:
+       columns: '2'
+# ---------------------------------------------------------------------------------#
+  - block: experience
+    content:
+      title: Physiotherapie Berufspraktikum
+      date_format: Jan 2006
+      items:
+        - title: Pilates Trainerin / Physioterapeutin
+          company: Along’vida Espaço Saúde Pilates
+          company_url: 'https://www.instagram.com/alongvidacursos/'
+          company_logo: along-logo
+          location: Salvador/Bahia - Brasilien
+          date_start: '2016-06-01'
+          date_end: '2017-08-01'
+          description: |2-
+              Praktischer 300 St.:
+
+              * Tatigkeit in Mat Pilates (Pilates-methode)
+              * Rehabilitation von neurologischen Erkrankungen
+              * Rehabilitation von älteren Patienten und Amputierten
+              * Einsatz von Pilates-Techniken bei der verletzungsprävention
     design:
        columns: '2'
 # ---------------------------------------------------------------------------------#
