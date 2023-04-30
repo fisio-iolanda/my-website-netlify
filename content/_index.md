@@ -16,6 +16,35 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+# ---------------------------------------------------------------------------------#
+  - block: experience
+    content:
+      title: Physiotherapie freiwilliges Praktikum
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Neurologische Physiotherapie
+          company: Schulklinik UniFTC
+          company_url: 'https://www.uniftc.edu.br/servicos/clinica-escola-de-fisioterapia'
+          company_logo: ftc-logo
+          location: Salvador/Bahia - Brasilien
+          date_start: '2018-02-01'
+          date_end: '2018-06-01'
+          description: |2-
+              Praktischer 70 St:
+
+              * Anwendung spezifischer Behandlungen bei Patienten mit neurologischen Störungenoder deren Folgeerscheinungen. (Schädel-Hirn-Trauma - SHT und Schlaganfall)
+              * Individualisierte Untersuchungstermine und Patientenentwicklung (Kinesiotherapie, Manuelle Therapie, Mobilisierung der Gelenke)
+              * Anwendung der Schröpftherapie zur Linderung von Muskelverspannungen und Schmerzen
+    design:
+       columns: '2'
+# ---------------------------------------------------------------------------------#
   - block: features
     content:
       title: Hobbys
@@ -44,41 +73,6 @@ sections:
           description: ''
           icon: camera-retro
           icon_pack: fas
-  # - block: experience
-  #   content:
-  #     title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      # date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      # items:
-        # - title: CEO
-        #   company: GenCoin
-        #   company_url: ''
-        #   company_logo: org-gc
-        #   location: California
-        #   date_start: '2021-01-01'
-        #   date_end: ''
-        #   description: |2-
-        #       Responsibilities include:
-
-        #       * Analysing
-        #       * Modelling
-        #       * Deploying
-        # - title: Professor of Semiconductor Physics
-        #   company: University X
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2016-01-01'
-        #   date_end: '2020-12-31'
-        #   description: Taught electronic engineering and researched semiconductor physics.
-    # design:
-    #   columns: '2'
   # - block: accomplishments
   #   content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
