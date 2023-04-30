@@ -1,6 +1,6 @@
 ---
 title: Iolanda
-avatar_filename: avatar
+avatar_filename: avatar.png
 social:
   - display:
       header: false
