@@ -26,5 +26,3 @@ Insgesamt war der Internationale Kongress für Physiotherapie und Wirbelsäule e
 ![](20210611_091345.jpeg)
 
 ![](20210611_091608.jpeg)
-
-![]()
