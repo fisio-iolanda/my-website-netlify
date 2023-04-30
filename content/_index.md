@@ -22,25 +22,25 @@ sections:
       items:
         - name: Fahrradfahren
           description: ''
-          icon: fa-biking
+          icon: biking
           icon_pack: fas
         - name: Schwimmen
           description: ''
-          icon: fa-swimmer
+          icon: swimmer
           icon_pack: fas
         - name: Akademie
           description: ''
-          icon: fa-dumbbell
+          icon: dumbbell
           icon_pack: fas
         - name: Tanzen und Musik
           description: ''
-          icon: fa-guitar
+          icon: guitar
           icon_pack: fas
         - name: Reisen
           description: ''
-          icon: fa-plane
+          icon: plane
           icon_pack: fas
-        - name: Photography
+        - name: Fotografieren
           description: ''
           icon: camera-retro
           icon_pack: fas
