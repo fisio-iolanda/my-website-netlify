@@ -67,6 +67,47 @@ sections:
     design:
        columns: '1'
 # ---------------------------------------------------------------------------------#
+  - block: experience
+    content:
+      title: Technikerin für Arbeitssicherheit
+      date_format: Jan 2006
+      items:
+        - title: Technikerin
+          company: RIP - KAEFER Bahia
+          company_url: 'https://www.ripbr.com.br/Home.html'
+          company_logo: rip-kaefer-logo
+          location: Camacari/Bahia - Brasilien
+          date_start: '2019-06-01'
+          date_end: '2021-03-01'
+          description: |2-
+              
+              * Schutzkonzeptentwicklung gegen COVID-19
+              * Anwendung der Dynamiken für Bewusstseinsbildung und Gesundheitsförderung
+              * Teamführung in Prozessen und Arbeitsvorgehen
+        - title: Assistentin
+          company: RIP - KAEFER Bahia
+          company_url: 'https://www.ripbr.com.br/Home.html'
+          company_logo: rip-kaefer-logo
+          location: Camacari/Bahia - Brasilien
+          date_start: '2014-06-01'
+          date_end: '2015-05-01'
+          description: |2-
+              
+              * Fachliche Begleitung im interne/externe Audits
+              * Kontrolle der technischen Dokumentation
+        - title: Praktikantin
+          company: RIP - KAEFER Bahia
+          company_url: 'https://www.ripbr.com.br/Home.html'
+          company_logo: rip-kaefer-logo
+          location: Camacari/Bahia - Brasilien
+          date_start: '2013-06-01'
+          date_end: '2014-05-01'
+          description: |2-
+              
+              * Fachliche Begleitung im interne/externe Audits
+    design:
+       columns: '1'
+# ---------------------------------------------------------------------------------#
   - block: features
     content:
       title: Hobbys
