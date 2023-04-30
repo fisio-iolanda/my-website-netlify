@@ -17,6 +17,8 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
 # ---------------------------------------------------------------------------------#
+  - title: Berufserfahrung
+  - id: experience
   - block: experience
     content:
       title: Physiotherapie freiwilliges Praktikum
