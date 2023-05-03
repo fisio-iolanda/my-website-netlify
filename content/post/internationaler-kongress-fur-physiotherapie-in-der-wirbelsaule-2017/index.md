@@ -5,7 +5,7 @@ date: 2023-04-30T20:19:59.327Z
 draft: false
 featured: false
 image:
-  filename: 20210611_091720.jpeg
+  filename: 20210611_091416.jpeg
   focal_point: Smart
   preview_only: false
 ---
