@@ -46,8 +46,7 @@ highlight_name: true
 first_name: Iolanda
 email: fisio.iolanda@gmail.com
 ---
-<div style="text-align: center">
-
+<div style="text-align: justify">
 
 ❯ In 2021 habe ich meine letzten obligatorischen Praktika absolviert und mein Studium in Physiotherapie abgeschlossen. Seitdem habe ich mich dem "Projekt Deutschland" gewidmet. Ich habe einige Herausforderungen in diesem Projekt gemeistert und was mich glücklich macht, ist, dass ich die Sprache gelernt habe, um mich mit Einheimischen und deutschsprachigen Menschen zu verständigen. Aber ich weiß, dass ich noch viel zu lernen habe.<br/> 
 
@@ -56,7 +55,5 @@ email: fisio.iolanda@gmail.com
 ❯Vor meiner Tätigkeit als Physiotherapeutin habe ich in der Industrie als Fachkraft für Arbeitssicherheit gearbeitet, wo ich viel gelernt habe: meine Kommunikationsfähigkeiten verbessert, Führungsqualitäten erworben, Konfliktmanagement entwickelt, Präsentationen erstellt und großartige Freundschaften aufgebaut habe.
 
 ❯ Im Moment ist meine berufliche Herausforderung, ein Unternehmen in Deutschland zu finden, in dem ich meine Fähigkeiten als Physiotherapeutin einbringen und dem Team einen Mehrwert bieten kann.
-
-
 
 </div>
