@@ -27,4 +27,8 @@ Mutig zu sein und neue Wege zu gehen, erfordert oft Überwindung. Es kann beäng
 
 Die Reise mag nicht immer einfach sein, aber du wirst wachsen, dich entfalten und ein erfülltes Leben führen. Also lass dich nicht von Zweifeln oder Hindernissen aufhalten. Geh hinaus und erobere die Welt!
 
-Fliege hoch und erfülle deine Träume!
+Fliege hoch und erfülle deine Träume!\
+Denke daran: Das Leben beginnt.\
+\
+Liebe Grüße,\
+I﻿olanda Santiago
