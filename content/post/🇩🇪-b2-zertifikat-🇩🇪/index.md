@@ -6,7 +6,7 @@ draft: false
 featured: false
 image:
   filename: b2.png
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 ---
 Hast du schon vom B2-Zertifikat gehört? Es ist ein zentraler Bestandteil des Gemeinsamen Europäischen Referenzrahmens für Sprachen, einem Standard zur Messung der Sprachkompetenz.
